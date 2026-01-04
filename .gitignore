@@ -1,3 +1,17 @@
+# === AI / RAG specific ===
+
+# ChromaDB local storage
+chroma/
+chromadb/
+data/chroma/
+
+# Local outputs / experiments
+outputs/
+runs/
+
+# Ollama local overrides (if any)
+.ollama/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
