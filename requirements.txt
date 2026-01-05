@@ -1,0 +1,15 @@
+# Python compatibility
+# Tested with Python 3.10.11
+
+# Core dependencies
+chromadb==0.4.24
+
+# ChromaDB compatibility requirements
+pydantic==1.10.13
+numpy==1.26.4
+
+# Utilities
+tqdm>=4.67.0
+
+# Local LLM client
+ollama==0.6.1
